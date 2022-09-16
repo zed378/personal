@@ -1,0 +1,4 @@
+.bounce-bottom {
+  -webkit-animation: bounce-bottom 0.9s both;
+  animation: bounce-bottom 0.9s both;
+}
